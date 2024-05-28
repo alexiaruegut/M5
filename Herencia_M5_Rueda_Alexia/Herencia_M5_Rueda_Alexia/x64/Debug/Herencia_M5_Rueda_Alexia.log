@@ -1,0 +1,4 @@
+﻿  Juego.cpp
+C:\Users\alru5\OneDrive - Centre d'Estudis Monlau\M5 - Entorns de desenvolupament\UF3\Herencia_M5_Rueda_Alexia\Herencia_M5_Rueda_Alexia\Juego.cpp(14,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  LINK : no se encontró C:\Users\alru5\OneDrive - Centre d'Estudis Monlau\M5 - Entorns de desenvolupament\UF3\Herencia_M5_Rueda_Alexia\x64\Debug\Herencia_M5_Rueda_Alexia.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  Herencia_M5_Rueda_Alexia.vcxproj -> C:\Users\alru5\OneDrive - Centre d'Estudis Monlau\M5 - Entorns de desenvolupament\UF3\Herencia_M5_Rueda_Alexia\x64\Debug\Herencia_M5_Rueda_Alexia.exe
